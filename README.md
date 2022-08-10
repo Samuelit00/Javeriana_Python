@@ -1,1 +1,0 @@
-- La funcionalidad de este repositorio es netamente academica, en el que su principal uso será el almaceamiento de código relacionado con la asignatura de (Programacióm).
